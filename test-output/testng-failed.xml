@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.flipkart.qa.base.ExtentReportListener"/>
+  </listeners>
+  <test name="flipkart(failed)" parallel="tests">
+    <classes>
+      <class name="com.flipkart.qa.testcase.SearchItemsTest">
+        <methods>
+          <include name="order"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.flipkart.qa.testcase.SearchItemsTest -->
+    </classes>
+  </test> <!-- flipkart(failed) -->
+</suite> <!-- Failed suite [Suite] -->

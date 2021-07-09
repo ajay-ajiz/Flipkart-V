@@ -1,0 +1,4 @@
+2021-07-01 12:04:53,868 DEBUG [main] Flipkart logger:31 - Loggin to Flipkart
+2021-07-01 12:04:59,348 DEBUG [main] Flipkart logger:29 - Searching Item
+2021-07-01 12:05:02,080 DEBUG [main] Flipkart logger:27 - Ordering item
+2021-07-01 12:05:07,217 DEBUG [main] Flipkart logger:43 - Proceeding to payment

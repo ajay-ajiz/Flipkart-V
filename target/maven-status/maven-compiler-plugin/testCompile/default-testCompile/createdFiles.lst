@@ -1,0 +1,4 @@
+com\flipkart\qa\testcase\HomePageTest.class
+com\flipkart\qa\testcase\SearchItemsTest.class
+com\flipkart\qa\testcase\LoginPageTest.class
+com\flipkart\qa\testcase\PaymentTest.class
